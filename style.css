@@ -1,0 +1,18 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header {
+    background-color: #1a79d9;
+    color: azure;
+    font-size: 30px;
+}
+
+.list {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+
+#para {
+    font-size: 20px;
+}
